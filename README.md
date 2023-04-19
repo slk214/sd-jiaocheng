@@ -30,7 +30,7 @@
 
 ###### webui
 
-下载webui[AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (github.com)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+webui官方地址[AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (github.com)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 （如果无法打开这个网站，可能是网络环境不太好，需要科学上网请自行百度实际使用方法）
 
